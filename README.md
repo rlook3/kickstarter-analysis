@@ -14,7 +14,7 @@ success and failure/cancelation is the greatest. On the flip side, December is t
 successful campaign seen by the close data points. Fortunately for Louise, *every* month still gives her favorable odds
 to run a successful theater campaign.
 
-![Theater_Outcomes_vs_Launch](C:\Users\rob\OneDrive\Desktop\Data Bootcamp\kickstarter-analysis\resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/rlook3/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Campaigns for plays are more consistently successful when the goal is below $20,000. Although the success rate is favorable
