@@ -20,7 +20,7 @@ to run a successful theater campaign.
 Campaigns for plays are more consistently successful when the goal is below $20,000. Although the success rate is favorable
 at some higher goals, the sample size is simply too small to confidently back the data up. 
 
-![Outcomes_vs_Goals](\resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 As mentioned before, a larger sample size of play campaigns with goals greater than $20,000 would give more confidence of an
